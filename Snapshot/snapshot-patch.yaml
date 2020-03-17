@@ -1,0 +1,4 @@
+metadata:
+  name: csi-hostpath-snapclass
+  annotations:
+    snapshot.storage.kubernetes.io/is-default-class: "true"
